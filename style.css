@@ -1,0 +1,41 @@
+body {
+    color: azure;
+    background-image: url(https://media.istockphoto.com/vectors/planets-in-space-with-stars-background-in-cartoon-style-solar-system-vector-id1221731288?k=6&m=1221731288&s=170667a&w=0&h=Ftai3xHD3FnTo1Mzy-M5LcPJ8dCxoLsMvw9XixV6aEk=);
+    background-size: cover;
+}
+
+h1 {
+    color: mediumpurple;
+    font-family: 'Rock Salt', cursive;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 2px purple;
+}
+
+h2 {
+    color: blueviolet;
+    font-family: 'Handlee', cursive;
+    text-align: center;
+    font-size: 30px;
+}
+
+h3 {
+    font-family: 'Bebas Neue', cursive;
+    color: darkgray;
+    text-shadow: 1px 1px white;
+    font-size: 23px;
+}
+
+p,
+li {
+    font-family: 'Gowun Batang', serif;
+    font-size: 14px;
+}
+
+a:link {
+    color: aquamarine;
+}
+
+a:hover {
+    color: cornflowerblue;
+}
